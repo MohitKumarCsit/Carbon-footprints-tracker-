@@ -1,3 +1,4 @@
+
 # Carbon Footprint Tracker - Database Backend
 
 A robust SQL-based database management system designed to track, log, and analyze user carbon emissions based on daily activities and logistics. This project serves as the core analytics backend for sustainability tracking applications.
