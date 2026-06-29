@@ -4,6 +4,9 @@
 A robust SQL-based database management system designed to track, log, and analyze user carbon emissions based on daily activities and logistics. This project serves as the core analytics backend for sustainability tracking applications.
 
 ## 🚀 Features
+## 📊 ER Diagram
+
+![ER Diagram](./ER-Diagram-1.jpg)
 - **Relational Schema:** Optimized tables for tracking user activities and calculating corresponding emission factors.
 - **Data Aggregation:** Advanced SQL queries to monitor real-time environmental footprints.
 - **Scalable Architecture:** Designed to handle high-frequency time-series logging data.
